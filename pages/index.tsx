@@ -7,6 +7,8 @@ export default function Home() {
       <Link href="/ssr">ssr</Link>
       <br />
       <Link href="/sg">sg</Link>
+      <br />
+      <Link href="/sg-fetch">ssr-fetch</Link>
     </div>
   );
 }
